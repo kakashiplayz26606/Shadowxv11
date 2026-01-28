@@ -1,0 +1,6 @@
+discord.py
+aiohttp
+wavelink
+python-dotenv
+qrcode[pil]
+colorama
